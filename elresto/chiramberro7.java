@@ -14,7 +14,7 @@ public class chiramberro5 {
 			System.out.println("num1");
 			double num1 = sc.nextDouble();
 			double media = (int) (num1+0.5);
-			System.out.println("el nùmero es "+media);
+			System.out.println("el nÃ¹mero es "+media);
 	}
 
 }
